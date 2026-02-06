@@ -10,7 +10,6 @@ This repository contains a professional frontend portfolio website developed dur
 ## 🛠️ Technical Stack
 * **HTML5** & **Semantic CSS** for structure.
 * **Tailwind CSS** for modern, responsive styling.
-* **JavaScript** for frontend interactivity.
 * **Prompt Engineering** used to assist in rapid code generation and UI design.
 
 ## 📱 Features
